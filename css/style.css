@@ -1,0 +1,73 @@
+.logo{
+    max-width: 133px;
+    margin-left: 85px;
+}
+.logonavigation{
+  display: flex;
+  align-items: center;
+  margin-top: 31.9px;
+}
+.nav-ul{
+    display: flex;
+    margin-left: 726px;
+}
+.nav-li{
+    display: flex;
+    margin-left: 50px;
+    font-family: 'BPG Nino Mtavruli Bold';
+}
+.nav-li a{
+    color: #303134;
+}
+.bora{
+    max-width: 100%;
+    width: 100%;  
+    margin-top: 30px;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: auto;
+    max-width: 1450px;
+    width: 100%;
+    margin-top: 75px;
+}
+.textbox{
+    max-width: 241px;
+    width: 100%;
+}
+.textbox h2{
+    color: #1A1A1B;
+    font-family: 'BPG Nino Mtavruli Bold';
+}
+.textbox p{
+    font-family: 'ALK Sanet';
+    color: #8D8D8D;
+}
+.one{
+    max-width: 270px;
+    width: 100%;
+    height: 327px;
+    margin-left: 70px;
+}
+.hotelimg{
+    max-width: 268.97px;
+    width: 100%;
+    height: 181px;
+}
+.two{
+    max-width: 270px;
+    width: 100%;
+    margin-left: 50px;
+}
+.three img{
+    max-width: 270px;
+    width: 100%;
+    height: 181px;
+}
+.three{
+    max-width: 270px;
+    width: 100%;
+    margin-left: 50px;
+}
