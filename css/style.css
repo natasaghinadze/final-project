@@ -74,6 +74,10 @@
 .container2{
     max-width: 900px;
     width: 100%;
+    margin: auto;
+    margin-top: 67px;
+    display: flex;
+    justify-content: space-evenly;
 }
 .box1{
     max-width: 267px;
