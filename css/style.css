@@ -5,7 +5,8 @@
 .logonavigation{
   display: flex;
   align-items: center;
-  margin-top: 31.9px;
+  /* margin-top: 31.9px; */
+  background-color: #ffffff;
 }
 .nav-ul{
     display: flex;
@@ -72,22 +73,30 @@
     margin-left: 50px;
 }
 .container2{
-    max-width: 900px;
+    max-width: 1450px;
     width: 100%;
     margin: auto;
     margin-top: 67px;
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
+
 }
 .box1{
-    max-width: 267px;
+    max-width: 270px;
     width: 100%;
+    margin-left: 49px;
 }
 .box2{
-    max-width: 267px;
+    max-width: 270px;
     width: 100%;
+    margin-left: 50px;
 }
 .box3{
-    max-width: 267px;
+    max-width: 270px;
     width: 100%;
+    margin-left: 50px;
+}
+.atag{
+    max-width: 267px;
 }
