@@ -1,0 +1,22 @@
+.logo{
+    max-width: 133px;
+    margin-left: 85px;
+}
+.logonavigation{
+    display: flex;
+    align-items: center;
+    /* margin-top: 31.9px; */
+    background-color: #ffffff;
+}
+.nav-ul{
+    display: flex;
+    margin-left: 726px;
+}
+.nav-li{
+    display: flex;
+    margin-left: 50px;
+    font-family: 'BPG Nino Mtavruli Bold';
+}
+.nav-li a{
+    color: #303134;
+}

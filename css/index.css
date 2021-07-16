@@ -111,7 +111,7 @@
     margin-top: 250px;
     background-color: #ffffff;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     flex-wrap: wrap;
 }
 .information1{
