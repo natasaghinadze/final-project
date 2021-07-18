@@ -55,12 +55,13 @@
     width: 100%;
     display: flex;
     position: relative;
-    
+    justify-content: center;
 }
 .fly span{
     position: absolute;
     color: #ffffff;
     font-size: 20px;
+    
 }
 .f{
     margin-left: 70px;
