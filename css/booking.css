@@ -48,20 +48,19 @@
     margin-top: 75px;
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 .fly{
     max-width: 400px;
     width: 100%;
     display: flex;
     position: relative;
+    
 }
 .fly span{
     position: absolute;
     color: #ffffff;
     font-size: 20px;
-    text-align: center;
-    margin-left: 28%;
-    margin-top: 60%;
 }
 .f{
     margin-left: 70px;
@@ -89,17 +88,6 @@
 }
 .info a{
     color: black;
-}
-.comment{
-    max-width: 200px;
-    width: 100%;
-}
-textarea{
-    max-width: 280px;
-    border-color: lightgray
-}
-textarea:hover{
-    border-color: rgb(56, 92, 158);
 }
 .fas{
     margin-right: 10px;

@@ -129,18 +129,6 @@
 .info a{
     color: black;
 }
-.comment{
-    max-width: 200px;
-    width: 100%;
-}
-textarea{
-    max-width: 280px;
-    border-color: lightgray
-}
-textarea:hover{
-    border-color: rgb(56, 92, 158);
-}
-.fas,
-.fab{
+.fas{
     margin-right: 10px;
 }
